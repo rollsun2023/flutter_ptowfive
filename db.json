@@ -1,12 +1,13 @@
 {
   "AB": {
     "A": {
-      "U": "1",
+      "U": "https://www.rollsun.com",
       "onoff": 0,
       "isios": 0,
       "iosU": "1",
       "Area": [
-        "HK"
+        "HK",
+        "CN"
       ],
       "Event": [
         "dailyReward",
